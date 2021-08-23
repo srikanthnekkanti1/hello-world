@@ -1,4 +1,5 @@
 //This is the code to print the star pattern for a given number of rows
+//We can leverage this code to print the numbers also in patterns
 def prnt():
 
 	//Entering the rows to print
