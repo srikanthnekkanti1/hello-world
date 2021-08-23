@@ -21,6 +21,8 @@ def prnt():
 			print("*"*(j-x), end = " ")
 			i += 1
 		print()
+	
+	//Do we need both the patterns of the traingle??
 
 if __name__ == '__main__':
 	prnt()
