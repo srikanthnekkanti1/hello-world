@@ -1,3 +1,4 @@
+//This is the code to print the star pattern for a given number of rows
 def prnt():
 
 	j = int(input("Enter a number of rows to print: "))
