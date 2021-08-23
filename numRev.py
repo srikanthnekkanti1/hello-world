@@ -1,3 +1,4 @@
+//This returns an input number by reversing the digits
 def numRev(n):
 
 	print(str(n)[::-1])
