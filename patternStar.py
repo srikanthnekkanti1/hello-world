@@ -1,7 +1,10 @@
+//This is the code to print the star pattern for a given number of rows
 def prnt():
 
+	//Entering the rows to print
 	j = int(input("Enter a number of rows to print: "))
 
+	//Top Triangle loop
 	for x in range(1,j+1):
 		i = 1
 		print(" "*(j-x), end = " ")
@@ -10,6 +13,7 @@ def prnt():
 			i += 1
 		print()
 
+	//Bottom Triangle loop
 	for x in range(1,j+1):
 		i = 1
 		print(" "*(j-x), end = " ")
